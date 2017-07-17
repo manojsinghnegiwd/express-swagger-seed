@@ -1,5 +1,5 @@
-# node-es6-boilerplate
-> NodeJS Boilerpate with ES6 support.
+# express-swagger-boilerplate
+> Express with swagger
 
 ##### NOTE : This boilerplate need node version >= 6
 
@@ -15,8 +15,8 @@ This boilerplate uses
 ### Get Started
 Fire up your terminal
 ```sh
-git clone https://github.com/manojsinghnegiwd/node-es6-boilerplate.git
-cd node-es6-boilerplate
+git clone https://github.com/manojsinghnegiwd/express-swagger-boilerplate.git
+cd express-swagger-boilerplate
 npm install
 ```
 Start your mongodb server instance
