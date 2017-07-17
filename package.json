@@ -1,0 +1,30 @@
+{
+  "name": "express-swagger-seed",
+  "version": "1.0.0",
+  "description": "Express with swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojsinghnegiwd/express-swagger-seed.git"
+  },
+  "author": "Manoj Singh Negi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manojsinghnegiwd/express-swagger-seed/issues"
+  },
+  "homepage": "https://github.com/manojsinghnegiwd/express-swagger-seed#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4"
+  }
+}
