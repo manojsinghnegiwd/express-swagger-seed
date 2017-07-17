@@ -29,6 +29,8 @@ Start dev server by typing
 npm run dev
 ```
 
+Swagger Docs will be live at `http://localhost:3000/swagger`
+
 # Happy Coding
 
 Using this ? then please star this boilerplate and feel free to contribute.
